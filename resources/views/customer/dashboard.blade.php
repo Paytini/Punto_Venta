@@ -1,0 +1,1 @@
+@extends('customer.dashboard.index') 
